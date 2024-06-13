@@ -1,0 +1,23 @@
+header{
+    width: 100%;
+    height: 80vh;
+    background-image:url(../images/imgs.svg) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: cover;
+    color: white;
+}
+header .container .header_titles{
+    padding: 100px 0px;
+}
+header .container .header_titles h1{
+font-weight: bold;
+font-size: 50px;
+}
+header .container .header_titles button{
+   width: 200px;
+   height: 45px;
+   margin-top: 50px;
+   background-color: #FF9549;
+   border: none;
+    }

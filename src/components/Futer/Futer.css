@@ -1,0 +1,47 @@
+.futer_title{
+    border: solid white ;
+    padding: 20px 20px;
+    background-color: #1C2121;
+    border-radius: 12px;
+    border: none;
+}
+.Futer{
+    background-color:#181a1a ;
+    color: white;
+}
+.list_futer{
+    border: 0.5px solid white;
+    padding: 10px 20px;
+    border-radius: 12px ;
+    width: 95%;
+    border: none;
+    color: white ;
+    position: absolute;
+    bottom: 20px; /* Adjust as needed to position the list lower */
+    left: 50%;
+    transform: translateX(-50%);
+    border: 0.5px solid white;
+    padding: 10px 20px;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    background-color: rgba(24, 26, 26, 0.8);
+    
+    
+    background-color: #181a1a;
+
+    
+    
+}
+.futer_map{
+    height: 450px;
+    margin: 50px 0px;
+    border-radius: 15px;
+    
+ background-image: url('../images/ifreme.svg');
+  background-size: cover;
+  background-position: center;
+  position: relative; 
+    background-image: url(../images/ifreme.svg);
+    
+}
